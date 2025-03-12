@@ -1,0 +1,80 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# Rider and VSCode settings
+.idea/
+.vscode/
+
+# User-specific settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Auto-generated files
+*.generated.cs
+
+# Logs
+*.log
+
+# Packages and dependencies
+packages/
+node_modules/
+!packages/repositories.config
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+NuGet.Config
+NuGetScratch/
+packages.config
+
+# Entity Framework
+App.db
+App.db-journal
+migrations/
+
+# Resharper and Rider
+*.DotSettings.user
+.idea/
+
+# Mac specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Coverage results
+coverage/
+*.coverage
+*.coveragexml
+TestResults/
+
+# Docker
+**/Dockerfile
+**/docker-compose*
+
+# Temporary files
+*.bak
+*.tmp
+*.swp
+
+# Secrets
+secrets.json
+appsettings.Development.json
