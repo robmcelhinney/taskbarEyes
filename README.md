@@ -23,6 +23,12 @@ Taskbar Eyes is a quirky Windows application that brings a pair of animated eyes
 
 ---
 
+## **Demo**
+
+https://github.com/user-attachments/assets/d2ef0f65-3277-484d-890c-eee607b97bd4
+
+---
+
 ## **Installation**
 
 ### **Prerequisites**
