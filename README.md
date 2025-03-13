@@ -31,6 +31,10 @@ https://github.com/user-attachments/assets/d2ef0f65-3277-484d-890c-eee607b97bd4
 
 ## **Installation**
 
+### Simple Install
+
+Download .exe & .ico file from https://github.com/robmcelhinney/taskbarEyes/releases and double click .exe file once downloaded.
+
 ### **Prerequisites**
 
 **.NET 9.0 SDK or Later:**  
@@ -42,8 +46,6 @@ dotnet --list-sdks
 
 -   **Windows Desktop Runtime:**  
      If you're building a WinForms app, make sure the required Windows Desktop Runtime is installed.
-
--
 
 ### **Cloning the Repository**
 
